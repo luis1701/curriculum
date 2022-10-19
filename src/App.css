@@ -27,6 +27,8 @@
   border-color: beige;
   border-radius: 10px;
   padding: 10px;
+  min-width: 200px;
+  text-align: center;
 }
 
 .option-selected {
@@ -36,6 +38,8 @@
   border-radius: 10px;
   padding: 10px;
   background: gainsboro;
+  min-width: 200px;
+  text-align: center;
 }
 
 .description {
@@ -45,4 +49,7 @@
   border-color: greenyellow;
   border-radius: 25px;
   padding: 10px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-left: 30px;
 }
